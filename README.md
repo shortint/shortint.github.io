@@ -21,8 +21,8 @@ I love to play basketball/football and also I am interested in theories of physi
 - School - Kendriya Vidyalaya CR Solapur
 
 ```
-For my other Python and C++ projects check [my GitHub](https://github.com/shortint)
-To view this Repository [Click](https://github.com/shortint/shortint.github.io)
+For my other Python and C++ projects check [my GitHub](https://github.com/shortint) and
+to view this Repository [Click Here](https://github.com/shortint/shortint.github.io)
 
 
 ### GAMES
