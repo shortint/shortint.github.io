@@ -1,6 +1,6 @@
 ## This Website belongs to Rushan Shaikh
 
-You can use the [editor on GitHub](https://github.com/shortint/shortint.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hey, I'm **Rushan Shaikh**. I started programming when I was in Class XI. My first programming language was Python and currently I am learning C++
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
