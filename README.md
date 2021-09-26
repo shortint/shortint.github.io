@@ -1,12 +1,14 @@
 ## This Website belongs to Rushan Shaikh
 
+### How I Started my programming Journey
+
 Hey, I'm **Rushan Shaikh**. I started programming when I was in Class XI. My first programming language was Python and currently I am learning C++.
 
 I found programming (Compyter Science) very interesting as we can create things and also I can work on projects which I'd love to do with my friends.
 
-### Markdown
+### ABOUT ME :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I love to play basketball/football and also I am interested in theories of physics
 
 ```markdown
 Syntax highlighted code block
