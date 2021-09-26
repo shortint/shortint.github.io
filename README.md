@@ -1,4 +1,4 @@
-## This Website belongs to Rushan Shaikh
+## RUSHAN SHAIKH (WEB PAGE)
 
 ### How I Started my programming Journey
 
