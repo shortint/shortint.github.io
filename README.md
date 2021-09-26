@@ -12,11 +12,11 @@ I love to play basketball/football and also I am interested in theories of physi
 
 ```markdown
 
-DOB - 21/07/2021 
-Started programming - 15th June 2019
-Languages - Python and C++
-Interests - Manga, Physics, CS and Sports
-Age - 17
+- DOB - 21/07/2021 
+- Started programming - 15th June 2019
+- Languages - Python and C++
+- Interests - Manga, Physics, CS and Sports
+- Age - 17
 
 ```
 
@@ -32,8 +32,8 @@ Although I haven't played many games but I do love to play some games
 
 ### Manga and Anime
 
-I love read One Piece, JJBA and also Vinland Saga
-Currently Watching : JJBA
-Currently Reading : One Piece
+I enjoy reading manga and also watching anime
+- Currently Watching : JJBA
+- Currently Reading : One Piece
 
 
