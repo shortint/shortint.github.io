@@ -1,12 +1,12 @@
-## RUSHAN SHAIKH (WEB PAGE)
+## HEY THERE, I AM RUSHAN SHAIKH
 
-### How I Started my programming Journey
+### PROGRAMMING AND COMPUTER SCIENCE
 
-Hey, I'm **Rushan Shaikh**. I started programming when I was in Class XI. My first programming language was Python and currently I am learning C++.
+I started programming when I was in Class XI. My first programming language was Python and currently I am learning C++.
 
 I found programming (Compyter Science) very interesting as we can create things and also I can work on projects which I'd love to do with my friends.
 
-### ABOUT ME :
+### ABOUT ME
 
 I love to play basketball/football and also I am interested in theories of physics
 
@@ -23,7 +23,7 @@ I love to play basketball/football and also I am interested in theories of physi
 For my other Python and C++ projects check [my GitHub](https://github.com/shortint)
 
 
-### Games 
+### GAMES
 
 Although I haven't played many games but I do love to play some games 
 ```
@@ -32,7 +32,7 @@ Although I haven't played many games but I do love to play some games
 - CSGO
 ```
 
-### Manga and Anime
+### MANGA AND ANIME
 
 I enjoy reading manga and also watching anime
 ```
