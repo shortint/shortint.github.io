@@ -20,13 +20,13 @@ I love to play basketball/football and also I am interested in theories of physi
 - School - Kendriya Vidyalaya CR Solapur
 
 ```
-
 For my other Python and C++ projects check [my GitHub](https://github.com/shortint)
+
 
 ### Games 
 
-```
 Although I haven't played many games but I do love to play some games 
+```
 - Valorant
 - Karlson
 - CSGO
@@ -34,8 +34,8 @@ Although I haven't played many games but I do love to play some games
 
 ### Manga and Anime
 
-```
 I enjoy reading manga and also watching anime
+```
 - Currently Watching : JJBA
 - Currently Reading : One Piece
 ```
