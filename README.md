@@ -1,8 +1,8 @@
 ## This Website belongs to Rushan Shaikh
 
-Hey, I'm **Rushan Shaikh**. I started programming when I was in Class XI. My first programming language was Python and currently I am learning C++
+Hey, I'm **Rushan Shaikh**. I started programming when I was in Class XI. My first programming language was Python and currently I am learning C++.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I found programming (Compyter Science) very interesting as we can create things and also I can work on projects which I'd love to do with my friends.
 
 ### Markdown
 
