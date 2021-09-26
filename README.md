@@ -20,7 +20,7 @@ I love to play basketball/football and also I am interested in theories of physi
 
 ```
 
-For my other Python and C++ projects check : (https://github.com/shortint).
+For my other Python and C++ projects check [Github](https://github.com/shortint)
 
 ### Games 
 
