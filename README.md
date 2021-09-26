@@ -6,6 +6,7 @@ I started programming when I was in Class XI. My first programming language was 
 
 I found programming (Compyter Science) very interesting as we can create things and also I can work on projects which I'd love to do with my friends.
 
+
 ### ABOUT ME
 
 I love to play basketball/football and also I am interested in theories of physics
@@ -21,6 +22,7 @@ I love to play basketball/football and also I am interested in theories of physi
 
 ```
 For my other Python and C++ projects check [my GitHub](https://github.com/shortint)
+To view this Repository [Click](https://github.com/shortint/shortint.github.io)
 
 
 ### GAMES
@@ -32,6 +34,7 @@ Although I haven't played many games but I do love to play some games
 - CSGO
 ```
 
+
 ### MANGA AND ANIME
 
 I enjoy reading manga and also watching anime
@@ -40,4 +43,3 @@ I enjoy reading manga and also watching anime
 - Currently Reading : One Piece
 ```
 
-To view this Repository [Click](https://github.com/shortint/shortint.github.io)
