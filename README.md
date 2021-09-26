@@ -40,3 +40,4 @@ I enjoy reading manga and also watching anime
 - Currently Reading : One Piece
 ```
 
+To view this Repository [Click](https://github.com/shortint/shortint.github.io)
