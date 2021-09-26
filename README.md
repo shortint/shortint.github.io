@@ -11,29 +11,29 @@ I found programming (Compyter Science) very interesting as we can create things 
 I love to play basketball/football and also I am interested in theories of physics
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+DOB - 21/07/2021 
+Started programming - 15th June 2019
+Languages - Python and C++
+Interests - Manga, Physics, CS and Sports
+Age - 17
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For my other Python and C++ projects check : (https://github.com/shortint).
 
-### Jekyll Themes
+### Games 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shortint/shortint.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Although I haven't played many games but I do love to play some games 
+- Valorant
+- Karlson
+- CSGO
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Manga and Anime
+
+I love read One Piece, JJBA and also Vinland Saga
+Currently Watching : JJBA
+Currently Reading : One Piece
+
+
